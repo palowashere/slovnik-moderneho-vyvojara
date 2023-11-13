@@ -12,7 +12,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - džira
 - tiket
 - júzer-storky
-- pecko
+- pecko 
 - prezka
 - skrína
 - brauser
@@ -40,10 +40,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - majkroservisa
 - vižuálko
 - junit testy
-- random
+- random - "náhodný/á/é/e", pôvodný výraz je však už považovaný za archaizmus
 - elouvenc
-- houmofis
-- svičnúť
+- houmofis - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
+- svičnúť - "prepnúť", príklad: "Svični sa do mastera."
 - fecilitíz
 - loker
 - bejsik
@@ -51,6 +51,6 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - koud rivjú
 - rísors
 - hítid
-- imo
-- kól
-- edvajs
+- imo 
+- kól - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+- edvajs - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
