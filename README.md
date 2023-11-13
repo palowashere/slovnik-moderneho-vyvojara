@@ -4,7 +4,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - bag
 - bagfiks
 - fíčr / fíčura
-- ohek
+- ohek - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
 - skrínšér
 - šérovať obrazovku
 - smart-šéring / desk-šéring
@@ -14,10 +14,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - júzer-storky
 - pecko 
 - prezka
-- skrína
-- brauser
-- lajn(a)
-- míting
+- skrína - "obrazovka"
+- brauser - "prehliadač", príklad: "Aký máš na pecku brauser?" POZOR, odpoveď na túto otázku možno vyvolá sebadeštruktívny monológ jej autora, preto sa radšej debatám o prehliadačoch alebo operačných systémoch vyhýbajte!
+- lajn(a) 
+- míting - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
 - sink
 - plening
 - grúming
@@ -30,7 +30,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - klaud
 - brenč
 - stendap
-- ejdžár
+- ejdžár 
 - hákvéčko
 - bilt
 - kolstek
@@ -41,13 +41,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - vižuálko
 - junit testy
 - random - "náhodný/á/é/e", pôvodný výraz je však už považovaný za archaizmus
-- elouvenc
+- elouvenc - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
 - houmofis - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
 - svičnúť - "prepnúť", príklad: "Svični sa do mastera."
 - fecilitíz
 - loker
 - bejsik
-- fíling
+- fíling - "pocit", ten kto feeluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefeelujem bráško"
 - koud rivjú
 - rísors
 - hítid
