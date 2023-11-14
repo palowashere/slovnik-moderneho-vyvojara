@@ -48,6 +48,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **imo**
 
 # J
+- **juáj**
+- **juiks**
 - **junit testy**
 - **júzer-storky**
 
