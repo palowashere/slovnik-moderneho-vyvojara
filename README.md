@@ -56,3 +56,4 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **kajnda**
 - **treš**
+- **ajtem**
