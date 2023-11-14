@@ -8,6 +8,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # B
 - **bag**
 - **bagfiks**
+- **batn**
 - **bejsik**
 - **bejsikli**
 - **bilt**
@@ -27,7 +28,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **ejdžár**
 - **elokejšn**
-- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
+- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
+- **erej**
 
 # F
 - **fankšn**
@@ -42,11 +44,14 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # H
 - **hajering badžetyng**
 - **hákvéčko**
+- **heder**
 - **hítid**
 - **houmofis** - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
 
 # I
 - **imo**
+- **instrakšn**
+- **intrfejs**
 
 # J
 - **juáj**
@@ -56,7 +61,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # K
 - **kajnda**
+- **kaunter**
 - **kjúárkód**
+- **klas(a)**
 - **klaud**
 - **kolstek**
 - **konfluens pejdž(a)**
@@ -77,11 +84,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
+- **ouverajdnúť**
 
 # P
 - **pajplajny**
 - **pecko**
 - **pejpr**
+- **pekidž**
 - **plening**
 - **prezka**
 - **pritymač**
@@ -109,6 +118,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # T
 - **tiket**
 - **treš**
+- **tret**
 
 # U
 
