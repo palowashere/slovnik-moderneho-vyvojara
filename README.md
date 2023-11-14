@@ -67,6 +67,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **klaud**
 - **kolstek**
 - **konfluens pejdž(a)**
+- **kontribjušn**
 - **koud rivjú**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 
@@ -84,6 +85,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
+- **oupensors**
 - **ouverajdnúť**
 
 # P
