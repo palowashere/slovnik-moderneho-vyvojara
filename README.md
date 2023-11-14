@@ -34,6 +34,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fecilitíz**
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto feeluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefeelujem bráško"
+- **frejmvork**
 
 # G
 - **grúming**
@@ -64,6 +65,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # L 
 - **lajn(a)**
+- **libka**
 - **loker**
 
 # M
