@@ -93,7 +93,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # S
 - **sadžeščn**
 - **šérovať obrazovku**
-- **sink
+- **sink**
 - **skrína** - "obrazovka"
 - **skrínšér**
 - **smart-šéring / desk-šéring**
