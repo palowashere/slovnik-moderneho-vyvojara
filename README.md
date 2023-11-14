@@ -54,3 +54,5 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **imo**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
+- **kajnda**
+- **treš**
