@@ -1,60 +1,116 @@
 # slovnik-umrtia-jazyka-slovenskeho
 priebežne upravovaný slovník zdementneného moderného vývojára
 
+# A
+- **ajtem**
+- **ažúr**
+
+# B
 - **bag**
 - **bagfiks**
+- **bejsik**
+- **bejsikli**
+- **bilt**
+- **brauser** - "prehliadač", príklad: "Aký máš na pecku brauser?" POZOR, odpoveď na túto otázku možno vyvolá sebadeštruktívny monológ jej autora, preto sa radšej debatám o prehliadačoch alebo operačných systémoch vyhýbajte!
+- **brenč**
 - **brend**
-- **fíčr / fíčura**
-- **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
-- **skrínšér**
-- **šérovať obrazovku**
-- **smart-šéring / desk-šéring**
-- **ažúr**
+
+# C
+- **čeknúť**
+
+# D
+- **dilej**
 - **džira**
-- **tiket**
+
+# E
+- **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
+- **ejdžár**
+- **elokejšn**
+- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
+
+# F
+- **fankšn**
+- **fecilitíz**
+- **fíčr / fíčura**
+- **fíling** - "pocit", ten kto feeluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefeelujem bráško"
+
+# G
+- **grúming**
+
+# H
+- **hajering badžetyng**
+- **hákvéčko**
+- **hítid**
+- **houmofis** - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
+
+# I
+- **imo**
+
+# J
+- **junit testy**
 - **júzer-storky**
+
+# K
+- **kajnda**
+- **klaud**
+- **kolstek**
+- **konfluens pejdž(a)**
+- **koud rivjú**
+- **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+
+# L 
+- **lajn(a)**
+- **loker**
+
+# M
+- **majkroservisa**
+- **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
+
+# N 
+- **nejmspejs**
+
+# O
+- **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
+
+# P
 - **pecko**
 - **prezka**
-- **skrína** - "obrazovka"
-- **brauser** - "prehliadač", príklad: "Aký máš na pecku brauser?" POZOR, odpoveď na túto otázku možno vyvolá sebadeštruktívny monológ jej autora, preto sa radšej debatám o prehliadačoch alebo operačných systémoch vyhýbajte!
-- **lajn(a)**
-- **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
-- **sink
 - **plening**
-- **grúming**
-- **nejmspejs**
-- **konfluens pejdž(a)**
-- **rekvest**
-- **dilej**
-- **hajering badžetyng**
-- **reporty**
-- **klaud**
-- **brenč**
-- **stendap**
-- **ejdžár**
-- **hákvéčko**
-- **bilt**
-- **kolstek**
-- **fankšn**
 - **pajplajny**
-- **rilís**
-- **majkroservisa**
-- **vižuálko**
-- **junit testy**
+
+# Q 
+
+# R
 - **random** - "náhodný/á/é/e", pôvodný výraz je však už považovaný za archaizmus
-- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
-- **houmofis** - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
-- **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
-- **fecilitíz**
-- **loker**
-- **bejsik**
-- **fíling** - "pocit", ten kto feeluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefeelujem bráško"
-- **koud rivjú**
+- **rekvest**
+- **reporty**
+- **rilís**
 - **rísors**
-- **hítid**
-- **imo**
-- **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
-- **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
-- **kajnda**
+
+# S
+- **šérovať obrazovku**
+- **sink
+- **skrína** - "obrazovka"
+- **skrínšér**
+- **smart-šéring / desk-šéring**
+- **stendap**
+- **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
+
+# T
+- **tiket**
 - **treš**
-- **ajtem**
+
+# U
+
+# V
+- **vižuálko**
+
+# W
+
+# X
+
+# Y
+
+# Z
+
+
