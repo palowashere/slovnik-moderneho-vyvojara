@@ -81,6 +81,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # P
 - **pajplajny**
 - **pecko**
+- **pejpr**
 - **plening**
 - **prezka**
 - **pritymač**
