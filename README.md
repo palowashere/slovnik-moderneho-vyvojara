@@ -91,6 +91,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pecko**
 - **pejpr**
 - **pekidž**
+- **performens**
 - **plening**
 - **prezka**
 - **pritymač**
