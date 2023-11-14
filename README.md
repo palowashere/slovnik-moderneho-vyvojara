@@ -2,8 +2,8 @@
 priebežne upravovaný slovník zdementneného moderného vývojára
 
 # A
-- **ajtem**
-- **ažúr**
+- **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?"
+- **ažúr** - "počítač niekoho iného", od ľudí ktorí vám prinieli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia
 
 # B
 - **bag**
