@@ -88,6 +88,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rísors**
 
 # S
+- **sadžeščn**
 - **šérovať obrazovku**
 - **sink
 - **skrína** - "obrazovka"
