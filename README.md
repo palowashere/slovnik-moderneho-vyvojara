@@ -19,6 +19,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeknúť**
 
 # D
+- **dajvers**
 - **dilej**
 - **džira**
 
@@ -52,6 +53,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # K
 - **kajnda**
+- **kjúárkód**
 - **klaud**
 - **kolstek**
 - **konfluens pejdž(a)**
@@ -73,10 +75,11 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
 
 # P
-- **pecko**
-- **prezka**
-- **plening**
 - **pajplajny**
+- **pecko**
+- **plening**
+- **prezka**
+- **pritymač**
 
 # Q 
 
