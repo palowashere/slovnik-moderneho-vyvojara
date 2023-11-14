@@ -22,6 +22,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # D
 - **dajvers**
 - **dilej**
+- **distrekšn**
 - **džira**
 
 # E
