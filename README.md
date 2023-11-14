@@ -3,6 +3,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 - **bag**
 - **bagfiks**
+- **brend**
 - **fíčr / fíčura**
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
 - **skrínšér**
