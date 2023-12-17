@@ -45,6 +45,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dikšineri**
 - **dilej**
 - **dilít**
+- **diploj**
 - **distrekšn**
 - **dženerejtyd**
 - **džira**
@@ -55,8 +56,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **edžajl**
 - **efišnsi**
-- **ejdžár**
 - **ejáj**
+- **ejesejpí**
+- **ejdžár**
 - **ej-kej-ej**
 - **ejpíáj**
 - **ekaunt**
@@ -167,11 +169,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pejpr**
 - **pekidž**
 - **performens**
+- **píárko**
 - **pík**
 - **plening**
 - **polisi**
 - **prezka**
 - **pritymač**
+- **pušnúť**
 
 # Q 
 
