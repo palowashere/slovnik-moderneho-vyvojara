@@ -91,6 +91,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # I
 - **imo**
 - **infrastrakčr**
+- **inkam**
 - **instrakšn**
 - **interakšn**
 - **intrfejs**
