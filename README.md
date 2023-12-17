@@ -114,6 +114,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kaunter**
 - **keš/kešovať**
 - **kjúárkód**
+- **kjúej**
 - **klajent**
 - **klas(a)**
 - **klaud**
