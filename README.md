@@ -197,7 +197,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # S
 - **sabskripšn**
 - **sadžeščn**
-- **saijdhasl**
+- **sajdhasl**
 - **sekjúr**
 - **sešn**
 - **sink**
