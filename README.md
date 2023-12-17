@@ -38,6 +38,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeknúť**
 - **čens**
 
+![bag](obrazky/cens.jpeg)
+
 # D
 - **dabl**
 - **dajvers**
