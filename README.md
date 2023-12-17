@@ -124,6 +124,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **koud**
 - **koudbejs**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+- **kriejt**
 
 # L 
 - **lajn(a)**
