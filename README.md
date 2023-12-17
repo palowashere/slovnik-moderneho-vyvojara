@@ -157,6 +157,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ouvr-rejtid**
 
 # P
+- **pabliš**
 - **pajpa**
 - **pajplajna**
 - **pecko**
