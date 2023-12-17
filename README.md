@@ -191,6 +191,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sadžeščn**
 - **saijdhasl**
 - **sekjúr**
+- **sešn**
 - **sink**
 - **skedžl**
 - **skram**
