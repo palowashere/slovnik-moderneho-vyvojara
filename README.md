@@ -182,6 +182,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rilej**
 - **rilís**
 - **rivjú**
+- **rídmi**
 - **rísors**
 
 # S
