@@ -81,6 +81,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **frejmvork**
 - **frílens**
+- **futidž**
 
 # G
 - **grúming**
