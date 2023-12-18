@@ -221,6 +221,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # T
 - **tajming**
 - **tiket**
+- **temporeri**
 - **treš**
 - **tret**
 
