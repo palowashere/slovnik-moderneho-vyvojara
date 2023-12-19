@@ -111,6 +111,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **junit testy**
 - **junou**
 - **júzer-storky**
+- **júžual**
 
 # K
 - **kajnda**
