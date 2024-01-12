@@ -65,12 +65,14 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ej-kej-ej**
 - **ejpíáj**
 - **ekaunt**
+- **ekvipment**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
 - **eprouč**
 - **erej**
 - **esajn**
 - **esenšl**
+- **etenšn**
 - **evridž**
 
 # F
@@ -79,6 +81,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fecilitíz**
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
+- **fors**
 - **frejmvork**
 - **frílens**
 - **futidž**
@@ -117,12 +120,14 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kajnda**
 - **kastom**
 - **kaunter**
+- **kejs**
 - **keš/kešovať**
 - **kjúárkód**
 - **kjúej**
 - **klajent**
 - **klas(a)**
 - **klaud**
+- **klejm**
 - **kolbek**
 - **kolstek**
 - **komitment**
@@ -200,6 +205,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sabskripšn**
 - **sadžeščn**
 - **sajdhasl**
+- **saksesful**
 - **sekjúr**
 - **sešn**
 - **sink**
