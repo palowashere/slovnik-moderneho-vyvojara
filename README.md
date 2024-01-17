@@ -3,6 +3,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # A
 - **ajmín**
+- **anríl**
 - **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?" 
 - **apdejt**
 - **apgrejd**
@@ -36,6 +37,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # C
 - **čeindžnúť**
 - **čeknúť**
+- **čelindž**
 - **čens**
 
 ![bag](obrazky/cens.jpeg)
@@ -197,6 +199,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **reporty**
 - **rilej**
 - **rilís**
+- **ríl**
 - **rivjú**
 - **rídmi**
 - **rísors**
