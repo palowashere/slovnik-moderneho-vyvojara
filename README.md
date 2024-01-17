@@ -95,7 +95,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **hákvéčko**
 - **heder**
 - **hítid**
-- **houmofis** - "práca z domu", používané ako pochvalný prejav vyššiehio statusu alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
+- **houmofis** - "práca z domu", používané ako sebecky pochvalný prejav vyššiehio statusu rovnakého otroctva alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
 
 # I
 - **imo**
