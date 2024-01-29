@@ -209,6 +209,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sadžeščn**
 - **sajdhasl**
 - **saksesful**
+- **sejvnúť**
 - **sekjúr**
 - **sešn**
 - **sink**
