@@ -35,7 +35,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **brútfors** - ked mi treba velmi ist ale vlastnou volou to viem udrzat
   
 # C
-- **čeindžnúť**
+- **čardž/čardža**
+- **čeindž/čeindžd/čeindžnúť**
 - **čeknúť**
 - **čelindž**
 - **čens**
