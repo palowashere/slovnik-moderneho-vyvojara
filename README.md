@@ -202,7 +202,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rilís**
 - **ríl**
 - **rivjú**
-- **rídmi**
+- **rídmi/rídmí/rídmíčko**
 - **rísors**
 
 # S
