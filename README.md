@@ -239,6 +239,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **treind**
 - **treš**
 - **tret**
+- **túl**
 
 # U
 - **uel**
