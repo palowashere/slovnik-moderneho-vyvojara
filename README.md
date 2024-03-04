@@ -243,6 +243,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # U
 - **uel**
+- **uel-bijing**
 - **uerel/úerel**
 - **uičko**
 
