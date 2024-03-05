@@ -187,6 +187,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pík**
 - **plening**
 - **polisi**
+- **poust**
 - **prezka**
 - **pritymač**
 - **pušnúť**
