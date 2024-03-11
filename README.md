@@ -159,6 +159,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # M
 - **majkroservisa**
 - **mejk**
+- **míningful**
 - **mít**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
 - **moust**
