@@ -117,6 +117,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **juiks**
 - **junit testy**
 - **junou**
+- **júsles**
 - **júzer-storky**
 - **júžual**
 
