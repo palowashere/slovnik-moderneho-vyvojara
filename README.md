@@ -104,6 +104,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **imo**
 - **infrastrakčr**
 - **inkam**
+- **insajt**
 - **instrakšn**
 - **interakšn**
 - **intrfejs**
@@ -225,6 +226,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **smart-šéring**
 - **soljúšn**
 - **sors**
+- **spíker**
 - **sŕč**
 - **stejtment**
 - **stek**
