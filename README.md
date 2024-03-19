@@ -128,6 +128,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kaunter**
 - **kejs**
 - **keš/kešovať**
+- **kjú**
 - **kjúárkód**
 - **kjúej**
 - **klajent**
@@ -143,6 +144,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **koud**
 - **koudbejs**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+- **kverina**
 - **kriejt**
 
 # L 
