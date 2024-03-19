@@ -6,8 +6,11 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **anríl**
 - **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?" 
 - **apdejt**
+- **apičko**
 - **apgrejd**
 - **aptudejt**
+- **argosídí**
+- **áve-esko**
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia 
 
 # B
@@ -16,6 +19,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 ![bag](obrazky/bag.png)
 
+- **baďžet**
 - **bagfiks**
 - **baj-d-uej**
 - **batn**
@@ -31,6 +35,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **breinstorm**
 - **brenč**
 - **brend**
+- **brič**
 - **brouken**
 - **brútfors** - ked mi treba velmi ist ale vlastnou volou to viem udrzat
   
@@ -68,6 +73,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ej-kej-ej**
 - **ejpíáj**
 - **ekaunt**
+- **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
 - **ekvipment**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
@@ -86,11 +92,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **fors**
+- **frančís**
 - **frejmvork**
 - **frílens**
 - **futidž**
 
 # G
+- **gejtvej**
 - **grúming**
 
 # H
@@ -98,10 +106,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **háj**
 - **hákvéčko**
 - **heder**
+- **hedup** - nástroj používaný kockáčmi
 - **hítid**
 - **houmofis** - "práca z domu", používané ako sebecky pochvalný prejav vyššiehio statusu rovnakého otroctva alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
 
 # I
+- **ifíček**
 - **imo**
 - **infrastrakčr**
 - **inkam**
@@ -128,8 +138,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kaunter**
 - **kejs**
 - **keš/kešovať**
+- **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
 - **kjú**
 - **kjúárkód**
+- **kjúb**
 - **kjúej**
 - **klajent**
 - **klas(a)**
@@ -146,6 +158,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 - **kverina**
 - **kriejt**
+- **krut**
 
 # L 
 - **lajn(a)**
@@ -162,10 +175,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # M
 - **majkroservisa**
+- **majsíkvel**
 - **mejk**
 - **míningful**
 - **mít**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
+- **mondžo** - ne**síkvel**ová databáza určená vekovým kategóriam 6+
 - **moust**
 
 # N 
@@ -193,9 +208,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pík**
 - **plening**
 - **polisi**
+- **popnúť** - sloveso, popnúť tabletku alebo vec z **kjú** alebo z **erej**u
 - **poust**
 - **prezka**
+- **prún**
 - **pritymač**
+- **promík** - tečú tam čísla v časových radoch
 - **pušnúť**
 
 # Q 
@@ -209,11 +227,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rilej**
 - **rilís**
 - **ríl**
+- **ríserč** - keď treba dačo robiť ale nevieš čo akože
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
 - **rísors**
 
 # S
+- **sabík** - skrátená verzia **sabskripšn*y
 - **sabskripšn**
 - **sadžeščn**
 - **sajdhasl**
@@ -223,6 +243,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sens**
 - **sešn**
 - **sink**
+- **síkvel**
 - **skedžl**
 - **skram**
 - **skrejp**
@@ -248,6 +269,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **treind**
 - **treš**
 - **tret**
+- **trúput**
 - **túl**
 
 # U
@@ -271,5 +293,6 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # Z
 - **zúmnuť**
+- **žentú** - objekt starovekého vtipu o inštalácií žentú linuxovej distribúcie
 
 
