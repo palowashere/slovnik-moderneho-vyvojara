@@ -200,6 +200,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # R
 - **random** - "náhodný/á/é/e", pôvodný výraz je však už považovaný za archaizmus
+- **rannúť**
 - **rejndž**
 - **rekvest**
 - **reporty**
