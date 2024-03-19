@@ -75,6 +75,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **erej**
 - **esajn**
 - **esenšl**
+- **esjúmd**
 - **etenšn**
 - **evridž**
 
