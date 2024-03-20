@@ -74,6 +74,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ejpíáj**
 - **ekaunt**
 - **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
+- **ekspoužr**
 - **ekvipment**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
