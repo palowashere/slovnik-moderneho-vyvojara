@@ -50,6 +50,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # D
 - **dabl**
+- **dajrekt**
 - **dajvers**
 - **demidž**
 - **didžitájzd**
