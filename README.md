@@ -270,6 +270,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tajming**
 - **tiket**
 - **temporeri**
+- **topyk**
 - **treind**
 - **treš**
 - **tret**
