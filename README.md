@@ -53,6 +53,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dajrekt**
 - **dajvers**
 - **demidž**
+- **dibagd**
 - **didžitájzd**
 - **dikšineri**
 - **dilej**
