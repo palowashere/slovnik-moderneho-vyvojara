@@ -93,6 +93,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fajrvól**
 - **fankšn**
 - **fecilitíz**
+- **fejšl**
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **fors**
