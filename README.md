@@ -183,6 +183,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **majkroservisa**
 - **majsíkvel**
 - **mejk**
+- **mežŕs**
 - **míningful**
 - **mít**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
