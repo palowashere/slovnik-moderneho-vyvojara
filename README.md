@@ -104,6 +104,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # G
 - **gejtvej**
+- **gep**
 - **grúming**
 
 # H
