@@ -55,10 +55,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **demidž**
 - **dibagd**
 - **didžitájzd**
+- **difolt**
 - **dikšineri**
 - **dilej**
 - **dilít**
 - **diploj**
+- **distinkšn**
 - **distrekšn**
 - **dženerejtyd**
 - **džira**
@@ -112,6 +114,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **háj**
 - **hákvéčko**
 - **heder**
+- **hedkaunt**
 - **hedup** - nástroj používaný kockáčmi
 - **hítid**
 - **houmofis** - "práca z domu", používané ako sebecky pochvalný prejav vyššiehio statusu rovnakého otroctva alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
@@ -136,6 +139,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **junou**
 - **júsles**
 - **júzer-storky**
+- **júzkejs**
 - **júžual**
 
 # K
@@ -157,7 +161,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kolstek**
 - **komitment**
 - **kompajl**
-- **konfluens**
+- **konflu/konfluens**
 - **kontribjušn**
 - **koud**
 - **koudbejs**
@@ -184,6 +188,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **majkroservisa**
 - **majsíkvel**
 - **mejk**
+- **merdž**
 - **mežŕs**
 - **míningful**
 - **mít**
@@ -216,6 +221,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pík**
 - **plening**
 - **polisi**
+- **popap**
 - **popnúť** - sloveso, popnúť tabletku alebo vec z **kjú** alebo z **erej**u
 - **poust**
 - **prezka**
@@ -235,6 +241,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rilej**
 - **rilís**
 - **ríl**
+- **ripláj**
+- **riplejsnúť**
 - **ríserč** - keď treba dačo robiť ale nevieš čo akože
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
@@ -249,6 +257,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sejvnúť**
 - **sekjúr**
 - **sens**
+- **servisa**
 - **sešn**
 - **sink**
 - **síkvel**
@@ -292,6 +301,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **velju**
 - **veriebl**
 - **veržn**
+- **vindouňd**
 - **vižuálko**
 
 # W
