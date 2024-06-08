@@ -105,6 +105,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **futidž**
 
 # G
+- **gájd**
 - **gejtvej**
 - **gep**
 - **grúming**
