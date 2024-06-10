@@ -108,6 +108,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **gájd**
 - **gejtvej**
 - **gep**
+- **gujičko**
 - **grúming**
 
 # H
