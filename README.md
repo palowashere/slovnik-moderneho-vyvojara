@@ -83,7 +83,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekšuli/ekšu-ul**
 - **ekvipment**
 - **elokejšn**
-- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
+- **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
+- **eplájd**
+- **eplikejšn**
 - **eprouč**
 - **eprúvnuť**
 - **erej**
