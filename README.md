@@ -180,6 +180,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lajn(a)**
 - **lajkli**
 - **lajsens**
+- **lejer**
 - **lejtest**
 - **libka**
 - **licka**
