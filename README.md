@@ -122,6 +122,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **heder**
 - **hedkaunt**
 - **hedup** - nástroj používaný kockáčmi
+- **hendóverovanie**
 - **hítid**
 - **houmofis** - "práca z domu", používané ako sebecky pochvalný prejav vyššiehio statusu rovnakého otroctva alebo výhovorka pohodlnej práce v pyžame, často krát uvádzané aj ako "voľno"
 
