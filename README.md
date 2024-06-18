@@ -56,6 +56,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dibagd**
 - **didžitájzd**
 - **difolt**
+- **dikrísnuť**
 - **dikšineri**
 - **dilej**
 - **dilít**
@@ -84,6 +85,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie. 
 - **eprouč**
+- **eprúvnuť**
 - **erej**
 - **esajn**
 - **esenšl**
@@ -126,6 +128,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **imo**
 - **infrastrakčr**
 - **inkam**
+- **inkrísnuť**
 - **insajt**
 - **instrakšn**
 - **interakšn**
@@ -202,6 +205,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **nejmspejs**
 - **noudDŽeJes**
 - **nouhau**
+- **nout**
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
@@ -303,8 +307,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **velju**
 - **veriebl**
 - **veržn**
-- **vindouňd**
+- **vindoud**
 - **vižuálko**
+- **voljúm**
 
 # W
 
