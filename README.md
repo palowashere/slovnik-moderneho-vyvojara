@@ -159,7 +159,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **keš/kešovať**
 - **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
 - **kepčr**
-- ***kij~épr**
+- ***kij~pér**
 - **kjú**
 - **kjúárkód**
 - **kjúb**
