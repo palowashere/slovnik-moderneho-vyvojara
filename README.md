@@ -53,6 +53,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dajrekt**
 - **dajvers**
 - **demidž**
+- **dejta**
 - **dibagd**
 - **didžitájzd**
 - **difolt**
@@ -158,6 +159,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **keš/kešovať**
 - **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
 - **kepčr**
+- ***kij~épr**
 - **kjú**
 - **kjúárkód**
 - **kjúb**
