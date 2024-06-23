@@ -129,11 +129,14 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # I
 - **ifíček**
+- **ikstenšn**
 - **imo**
 - **infrastrakčr**
+- **iniš~lájz**
 - **inkam**
 - **inkrísnuť**
 - **insajt**
+- **instól**
 - **instrakšn**
 - **interakšn**
 - **intrfejs**
@@ -254,6 +257,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rilej**
 - **rilís**
 - **ríl**
+- **rimout**
 - **ripláj**
 - **riplejsnúť**
 - **ríserč** - keď treba dačo robiť ale nevieš čo akože
@@ -280,6 +284,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrína** - "obrazovka"
 - **skrínšér**
 - **skrolovať**
+- **skvošnúť**
 - **smart-šéring**
 - **soljúšn**
 - **sors**
