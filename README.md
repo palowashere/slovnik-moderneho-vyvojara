@@ -65,6 +65,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **distinkšn**
 - **distrekšn**
 - **dženerejtyd**
+- **dženeryk**
 - **džira**
 - **džob**
 
@@ -142,6 +143,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **intrfejs**
 - **invajrment**
 - **i-r-l**
+- **išjúz**
 - **ivent**
 
 # J
@@ -150,6 +152,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **junit testy**
 - **junou**
 - **júsles**
+- **jutiliti**
 - **júzer-storky**
 - **júzkejs**
 - **júžual**
@@ -197,6 +200,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lík**
 - **loker**
 - **lou**
+- **loukl**
 - **lrnyng**
 
 # M
@@ -256,13 +260,15 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **reporty**
 - **rilej**
 - **rilís**
-- **ríl**
+- **riloud**
 - **rimout**
 - **ripláj**
 - **riplejsnúť**
-- **ríserč** - keď treba dačo robiť ale nevieš čo akože
+- **ristór**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
+- **ríl**
+- **ríserč** - keď treba dačo robiť ale nevieš čo akože
 - **rísors**
 
 # S
@@ -290,10 +296,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sors**
 - **spíker**
 - **sŕč**
+- **stejdž/stejdžd**
+- **stejt**
 - **stejtment**
 - **stek**
 - **stendap**
 - **steš**
+- **stragl/straglovať**
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
 - **šérovať**
 
