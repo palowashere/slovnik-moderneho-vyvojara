@@ -303,6 +303,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **stendap**
 - **steš**
 - **stragl/straglovať**
+- **strakčr**
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
 - **šérovať**
 
