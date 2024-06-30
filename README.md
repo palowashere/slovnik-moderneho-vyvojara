@@ -85,6 +85,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekstenšn**
 - **ekšuli/ekšu-ul**
 - **ekvipment**
+- **elau**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **eplájd**
