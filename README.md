@@ -82,6 +82,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekaunt**
 - **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
 - **ekspoužr**
+- **ekstenšn**
 - **ekšuli/ekšu-ul**
 - **ekvipment**
 - **elokejšn**
