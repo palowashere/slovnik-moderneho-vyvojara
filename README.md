@@ -18,12 +18,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia 
 
 # B
+- **badžet**
 - **badžetyng**
 - **bag**
 
 ![bag](obrazky/bag.png)
 
-- **baďžet**
 - **bagfiks**
 - **baj-d-uej**
 - **batn**
