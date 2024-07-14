@@ -4,12 +4,16 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # A
 - **ajmín**
 - **anríl**
-- **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?" 
+- **anmjúť sa**
+- **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?"
+- **akses**
 - **apdejt**
 - **apičko**
 - **apgrejd**
+- **aprkejs**
 - **aptudejt**
 - **argosídí**
+- **artyfišl**
 - **áve-esko**
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia 
 
@@ -38,6 +42,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **brič**
 - **brouken**
 - **brútfors** - ked mi treba velmi ist ale vlastnou volou to viem udrzat
+- **búst**
   
 # C
 - **čardž/čardža**
@@ -61,9 +66,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dikšineri**
 - **dilej**
 - **dilít**
+- **dinájd**
 - **diploj**
+- **diskrajb/diskripšn**
 - **distinkšn**
 - **distrekšn**
+- **drajv**
 - **dženerejtyd**
 - **dženeryk**
 - **džira**
@@ -73,6 +81,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ečívment**
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **edžajl**
+- **egrigejt**
 - **efišnsi**
 - **ejáj**
 - **ejesejpí**
@@ -92,14 +101,17 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **eplikejšn**
 - **eprouč**
 - **eprúvnuť**
+- **erkhájv**
 - **erej**
 - **esajn**
 - **esenšl**
 - **esjúmd**
+- **etečnúť**
 - **etenšn**
 - **evridž**
 
 # F
+- **fajndyng**
 - **fajrvól**
 - **fankšn**
 - **fecilitíz**
@@ -107,7 +119,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **fors**
-- **frančís**
+- **frančís/frenčajz**
 - **frejmvork**
 - **frílens**
 - **futidž**
@@ -117,6 +129,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **gejtvej**
 - **gep**
 - **gujičko**
+- **grejd~aut**
 - **grúming**
 
 # H
@@ -147,6 +160,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **i-r-l**
 - **išjúz**
 - **ivent**
+- **ílrnyng**
 
 # J
 - **juáj**
@@ -180,13 +194,16 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kolstek**
 - **komitment**
 - **kompajl**
+- **komplajenc**
 - **konflu/konfluens**
+- **konstrejn**
 - **kontribjušn**
 - **koud**
 - **koudbejs**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 - **kukina**
 - **kverina**
+- **kveščn**
 - **kriejt**
 - **krut**
 
@@ -194,6 +211,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lajn(a)**
 - **lajkli**
 - **lajsens**
+- **launč**
 - **lejer**
 - **lejtest**
 - **libka**
@@ -203,6 +221,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **loker**
 - **lou**
 - **loukl**
+- **lovrkejs**
 - **lrnyng**
 
 # M
@@ -222,6 +241,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **noudDŽeJes**
 - **nouhau**
 - **nout**
+- **nýš**
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
@@ -229,6 +249,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **oupensors**
 - **ouverajdnúť**
 - **ouvr-rejtid**
+- **ouvrvjú**
 
 # P
 - **pabliš**
@@ -250,6 +271,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **prún**
 - **pritymač**
 - **promík** - tečú tam čísla v časových radoch
+- **prosídžr**
 - **pušnúť**
 
 # Q 
@@ -260,7 +282,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rejndž**
 - **rekvest**
 - **reporty**
+- **rikvajrments**
 - **rilej**
+- **rilejšn**
 - **rilís**
 - **riloud**
 - **rimout**
@@ -293,6 +317,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrínšér**
 - **skrolovať**
 - **skvošnúť**
+- **ským**
 - **smart-šéring**
 - **soljúšn**
 - **sors**
@@ -307,6 +332,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **stragl/straglovať**
 - **strakčr**
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
+- **šeduler**
 - **šérovať**
 
 # T
@@ -314,6 +340,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tiket**
 - **temporeri**
 - **topyk**
+- **traj-keč**
+- **trankejt**
 - **treind**
 - **treš**
 - **tret**
@@ -334,6 +362,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **vindoud**
 - **vižuálko**
 - **voljúm**
+- **vorkeraund**
 
 # W
 
