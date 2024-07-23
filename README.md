@@ -62,6 +62,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dibagd**
 - **didžitájzd**
 - **difolt**
+- **diklajn**
 - **dikrísnuť**
 - **dikšineri**
 - **dilej**
@@ -90,13 +91,16 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ejpíáj**
 - **ekaunt**
 - **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
+- **eknolidžnúť**
 - **ekspoužr**
 - **ekstenšn**
 - **ekšuli/ekšu-ul**
 - **ekvipment**
+- **elajn**
 - **elau**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
+- **endurenc**
 - **eplájd**
 - **eplikejšn**
 - **eprouč**
@@ -118,6 +122,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fejšl**
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
+- **formejšn**
 - **fors**
 - **frančís/frenčajz**
 - **frejmvork**
@@ -190,22 +195,23 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **klas(a)**
 - **klaud**
 - **klejm**
-- **kolbek**
-- **kolstek**
 - **komitment**
 - **kompajl**
 - **komplajenc**
 - **konflu/konfluens**
 - **konstrejn**
 - **kontribjušn**
+- **kolbek**
+- **kolstek**
 - **koud**
 - **koudbejs**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+- **krešnúť**
+- **kriejt/krijejt**
+- **krut**
 - **kukina**
 - **kverina**
 - **kveščn**
-- **kriejt**
-- **krut**
 
 # L 
 - **lajn(a)**
@@ -237,6 +243,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **moust**
 
 # N 
+- **nambr**
 - **nejmspejs**
 - **noudDŽeJes**
 - **nouhau**
@@ -337,9 +344,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # T
 - **tajming**
+- **tajp**
 - **tiket**
+- **tejbl**
 - **temporeri**
 - **topyk**
+- **trablšút**
 - **traj-keč**
 - **trankejt**
 - **treind**
@@ -353,6 +363,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **uel-bijing**
 - **uerel/úerel**
 - **uičko**
+- **úemel**
 
 # V
 - **vajolejšn**
