@@ -82,6 +82,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ečívment**
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **edžajl**
+- **edžastnúť**
 - **egrigejt**
 - **efišnsi**
 - **ejáj**
@@ -92,15 +93,18 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekaunt**
 - **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
 - **eknolidžnúť**
+- **ekros**
 - **ekspoužr**
 - **ekstenšn**
 - **ekšuli/ekšu-ul**
+- **ekvajrnúť**
 - **ekvipment**
 - **elajn**
 - **elau**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **endurenc**
+- **enihau**
 - **eplájd**
 - **eplikejšn**
 - **eprouč**
@@ -109,6 +113,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **erej**
 - **esajn**
 - **esenšl**
+- **esesnúť**
 - **esjúmd**
 - **etečnúť**
 - **etenšn**
@@ -152,6 +157,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ifíček**
 - **ikstenšn**
 - **imo**
+- **inejbl**
 - **infrastrakčr**
 - **iniš~lájz**
 - **inkam**
@@ -181,6 +187,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # K
 - **kajnda**
 - **kastom**
+- **karensi**
+- **karent**
 - **kaunter**
 - **kejs**
 - **keš/kešovať**
@@ -296,11 +304,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **riloud**
 - **rimout**
 - **ripláj**
+- **riport**
 - **riplejsnúť**
 - **ristór**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
 - **ríl**
+- **ríl~tajm**
 - **ríserč** - keď treba dačo robiť ale nevieš čo akože
 - **rísors**
 
@@ -309,6 +319,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sabskripšn**
 - **sadžeščn**
 - **sajdhasl**
+- **sajnnúť**
 - **saksesful**
 - **sejvnúť**
 - **sekjúr**
@@ -369,6 +380,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **vajolejšn**
 - **velju**
 - **veriebl**
+- **verient**
 - **veržn**
 - **vindoud**
 - **vižuálko**
