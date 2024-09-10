@@ -28,6 +28,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **baj-d-uej**
 - **batn**
 - **bazvord**
+- **beč**
 - **bejsik**
 - **bejsikli**
 - **bekap**
@@ -49,6 +50,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeindž/čeindžd/čeindžnúť**
 - **čeknúť**
 - **čelindž**
+- **čeindžlog**
 - **čens**
 
 ![bag](obrazky/cens.jpeg)
@@ -105,6 +107,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **endurenc**
 - **enihau**
+- **eniuej**
 - **eplájd**
 - **eplikejšn**
 - **eprouč**
@@ -120,6 +123,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **evridž**
 
 # F
+- **fajl**
 - **fajndyng**
 - **fajrvól**
 - **fankšn**
@@ -129,6 +133,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **formejšn**
 - **fors**
+- **forsínovať**
 - **frančís/frenčajz**
 - **frejmvork**
 - **frílens**
@@ -162,10 +167,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **iniš~lájz**
 - **inkam**
 - **inkrísnuť**
+- **inovejtyng/inovejšn**
 - **insajt**
 - **instól**
 - **instrakšn**
 - **interakšn**
+- **intrestyd**
 - **intrfejs**
 - **invajrment**
 - **i-r-l**
@@ -273,6 +280,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pecko**
 - **pejdž(a)**
 - **pejpr**
+- **pejstnúť**
 - **pekidž**
 - **performens**
 - **píárko**
@@ -282,12 +290,14 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **popap**
 - **popnúť** - sloveso, popnúť tabletku alebo vec z **kjú** alebo z **erej**u
 - **poust**
+- **prajs**
 - **prezka**
+- **procka**
 - **prún**
 - **pritymač**
 - **promík** - tečú tam čísla v časových radoch
 - **prosídžr**
-- **pušnúť**
+- **pušd/pušovať/pušnúť**
 
 # Q 
 
@@ -297,6 +307,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rejndž**
 - **rekvest**
 - **reporty**
+- **rikriejtnúť**
 - **rikvajrments**
 - **rilej**
 - **rilejšn**
@@ -306,6 +317,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ripláj**
 - **riport**
 - **riplejsnúť**
+- **risájz**
+- **risjúm/risjúmd**
 - **ristór**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
@@ -327,6 +340,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **servisa**
 - **sešn**
 - **sink**
+- **síkrit**
 - **síkvel**
 - **skedžl**
 - **skram**
@@ -339,10 +353,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **smart-šéring**
 - **soljúšn**
 - **sors**
+- **spendydž**
 - **spíker**
 - **sŕč**
 - **stejdž/stejdžd**
 - **stejt**
+- **stejtyd**
 - **stejtment**
 - **stek**
 - **stendap**
@@ -384,6 +400,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **veržn**
 - **vindoud**
 - **vižuálko**
+- **vjučko**
+- **vjú**
 - **voljúm**
 - **vorkeraund**
 
