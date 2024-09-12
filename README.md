@@ -14,6 +14,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **aptudejt**
 - **argosídí**
 - **artyfišl**
+- **asesmenty**
 - **áve-esko**
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia 
 
@@ -52,6 +53,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čelindž**
 - **čeindžlog**
 - **čens**
+- **čepter**
 
 ![bag](obrazky/cens.jpeg)
 
@@ -201,7 +203,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **keš/kešovať**
 - **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
 - **kepčr**
-- ***kij~pér**
+- **kij~pér**
 - **kjú**
 - **kjúárkód**
 - **kjúb**
@@ -368,6 +370,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
 - **šeduler**
 - **šérovať**
+- **špecka**
 
 # T
 - **tajming**
