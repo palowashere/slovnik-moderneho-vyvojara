@@ -5,7 +5,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ajmín**
 - **anríl**
 - **anmjútnuť sa**
-- **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?"
+- **ajtem**
 - **akses**
 - **apdejt**
 - **apičko**
