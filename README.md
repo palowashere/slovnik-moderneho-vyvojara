@@ -39,6 +39,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **blout**
 - **brauser** - "prehliadač", príklad: "Aký máš na pecku brauser?" POZOR, odpoveď na túto otázku možno vyvolá sebadeštruktívny monológ jej autora, preto sa radšej debatám o prehliadačoch alebo operačných systémoch vyhýbajte! 
 - **breinstorm**
+- **brejk**
 - **brenč**
 - **brend**
 - **brič**
@@ -215,6 +216,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **komitment**
 - **kompajl**
 - **komplajenc**
+- **konfera**
 - **konflu/konfluens**
 - **konstrejn**
 - **kontribjušn**
@@ -269,6 +271,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
+- **ohendlovať**
 - **opinion/opiňijn**
 - **oupensors**
 - **ouverajdnúť**
@@ -309,10 +312,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rejndž**
 - **rekvest**
 - **reporty**
+- **retenšn**
 - **rikriejtnúť**
 - **rikvajrments**
 - **rilej**
 - **rilejšn**
+- **rilejtovať**
 - **rilís**
 - **riloud**
 - **rimout**
@@ -355,6 +360,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **smart-šéring**
 - **soljúšn**
 - **sors**
+- **spejsing**
 - **spendydž**
 - **spíker**
 - **sŕč**
@@ -377,6 +383,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tajp**
 - **tiket**
 - **tejbl**
+- **tejkóver**
 - **temporeri**
 - **topyk**
 - **trablšút**
