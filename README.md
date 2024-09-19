@@ -77,6 +77,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **diskrajb/diskripšn**
 - **distinkšn**
 - **distrekšn**
+- **doiterovať**
 - **drajv**
 - **dženerejtyd**
 - **dženeryk**
