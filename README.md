@@ -107,6 +107,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekvipment**
 - **elajn**
 - **elau**
+- **elidžibl**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **endurenc**
