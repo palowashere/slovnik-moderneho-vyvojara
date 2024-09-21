@@ -252,6 +252,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lrnyng**
 
 # M
+- **majgrejt/majgrejgšn**
 - **majkroservisa**
 - **majsíkvel**
 - **mejk**
