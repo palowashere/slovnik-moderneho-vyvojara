@@ -56,7 +56,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeindžlog**
 - **čens**
 - **čepter**
-- **čet~dží~pí~tí**
+- **čet ~ dží ~ pí ~ tí**
 
 ![bag](obrazky/cens.jpeg)
 
@@ -397,7 +397,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # T
 - **tajming**
-- **tajp**
+- **tajp/tajpo**
 - **tiket**
 - **tímbilding**
 - **tejbl**
