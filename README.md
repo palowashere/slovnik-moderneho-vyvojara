@@ -32,6 +32,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **beč**
 - **bejsik**
 - **bejsikli**
+- **bek**
 - **bekap**
 - **bilt**
 - **bizi**
@@ -55,6 +56,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeindžlog**
 - **čens**
 - **čepter**
+- **čet~dží~pí~tí**
 
 ![bag](obrazky/cens.jpeg)
 
@@ -79,6 +81,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **distrekšn**
 - **doiterovať**
 - **drajv**
+- **džejson**
 - **dženerejtyd**
 - **dženeryk**
 - **džira**
@@ -87,6 +90,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # E
 - **ečívment**
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
+- **edž**
 - **edžajl**
 - **edžastnúť**
 - **egrigejt**
@@ -103,6 +107,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ekspoužr**
 - **ekstenšn**
 - **ekšuli/ekšu-ul**
+- **ektiviti/ektivitíz**
 - **ekvajrnúť**
 - **ekvipment**
 - **elajn**
@@ -142,6 +147,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **frančís/frenčajz**
 - **frejmvork**
 - **frílens**
+- **fulstek**
 - **futidž**
 
 # G
@@ -156,6 +162,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **hajering**
 - **háj**
 - **hákvéčko**
+- **hápéčko**
 - **heder**
 - **hedkaunt**
 - **hedup** - nástroj používaný kockáčmi
@@ -233,14 +240,17 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kukina**
 - **kverina**
 - **kveščn**
+- **kveščnér**
 
 # L 
 - **lajn(a)**
 - **lajkli**
 - **lajsens**
+- **lanč**
 - **launč**
 - **lejer**
 - **lejtest**
+- **lenguidž**
 - **libka**
 - **licka**
 - **ličrli/litčerali/literali**
@@ -276,6 +286,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
 - **ohendlovať**
 - **opinion/opiňijn**
+- **opšnal/opšnl**
 - **oupensors**
 - **ouverajdnúť**
 - **ouvr-rejtid**
@@ -330,6 +341,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **risájz**
 - **risjúm/risjúmd**
 - **ristór**
+- **ristrikšn**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
 - **ríl**
@@ -349,6 +361,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sens**
 - **servisa**
 - **sešn**
+- **setingsi**
 - **sink**
 - **síkrit**
 - **síkvel**
@@ -357,6 +370,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrejp**
 - **skrína** - "obrazovka"
 - **skrínšér**
+- **skrembl**
 - **skrolovať**
 - **skvošnúť**
 - **ským**
@@ -385,6 +399,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tajming**
 - **tajp**
 - **tiket**
+- **tímbilding**
 - **tejbl**
 - **tejkóver**
 - **temporeri**
