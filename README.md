@@ -397,7 +397,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # T
 - **tajming**
-- **tajp/tajpo**
+- **tajp**
+- **tajpo**
 - **tiket**
 - **tímbilding**
 - **tejbl**
