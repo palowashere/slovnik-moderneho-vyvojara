@@ -2,6 +2,7 @@
 priebežne upravovaný slovník zdementneného moderného vývojára
 
 # A
+- **adhok**
 - **ajmín**
 - **anríl**
 - **anmjútnuť sa**
@@ -9,6 +10,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **akses**
 - **apdejt**
 - **apičko**
+- **apikíj**
 - **apgrejd**
 - **aprkejs**
 - **aptudejt**
@@ -64,6 +66,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dabl**
 - **dajrekt**
 - **dajvers**
+- **daktejpd**
 - **demidž**
 - **dejta**
 - **dibagd**
@@ -80,6 +83,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **distinkšn**
 - **distrekšn**
 - **doiterovať**
+- **drajran**
 - **drajv**
 - **džejson**
 - **dženerejtyd**
@@ -140,6 +144,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fecilitíz**
 - **fejšl**
 - **fíčr / fíčura**
+- **finišd**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **formejšn**
 - **fors**
@@ -222,7 +227,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **klas(a)**
 - **klaud**
 - **klejm**
+- **ko-brausing**
 - **komitment**
+- **komp**
 - **kompajl**
 - **komplajenc**
 - **konfera**
@@ -231,8 +238,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kontribjušn**
 - **kolbek**
 - **kolstek**
+- **koučing**
 - **koud**
 - **koudbejs**
+- **ko-vorking**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 - **krešnúť**
 - **kriejt/krijejt**
@@ -266,6 +275,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **majkroservisa**
 - **majsíkvel**
 - **mejk**
+- **mentoryng**
 - **merdž**
 - **mežŕs**
 - **míningful**
@@ -353,9 +363,11 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sabík** - skrátená verzia **sabskripšn*y
 - **sabskripšn**
 - **sadžeščn**
+- **safiks**
 - **sajdhasl**
 - **sajnnúť**
 - **saksesful**
+- **sejls**
 - **sejvnúť**
 - **sekjúr**
 - **sens**
@@ -433,6 +445,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **vjú**
 - **voljúm**
 - **vorkeraund**
+- **vyprintiť**
 
 # W
 
