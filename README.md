@@ -60,7 +60,6 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 ![bag](obrazky/cens.jpeg)
 
-- 
 - **čepter**
 - **čet ~ dží ~ pí ~ tí**
 
