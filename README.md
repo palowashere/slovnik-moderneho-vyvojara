@@ -353,6 +353,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **risjúm/risjúmd**
 - **ristór**
 - **ristrikšn**
+- **ritrívnuť**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
 - **ríl**
