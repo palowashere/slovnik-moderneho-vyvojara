@@ -57,10 +57,12 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čelindž**
 - **čeindžlog**
 - **čens**
-- **čepter**
-- **čet ~ dží ~ pí ~ tí**
 
 ![bag](obrazky/cens.jpeg)
+
+- 
+- **čepter**
+- **čet ~ dží ~ pí ~ tí**
 
 # D
 - **dabl**
