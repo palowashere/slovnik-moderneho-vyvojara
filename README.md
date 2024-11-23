@@ -211,14 +211,16 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # K
 - **kajnda**
-- **kastom**
+- **kapabilita***
 - **karensi**
 - **karent**
+- **kastom**
 - **kaunter**
 - **kejs**
-- **keš/kešovať**
 - **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
+- **kejpíáj**
 - **kepčr**
+- **keš/kešovať**
 - **kij~pér**
 - **kjú**
 - **kjúárkód**
