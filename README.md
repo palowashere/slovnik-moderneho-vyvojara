@@ -278,6 +278,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **majkroservisa**
 - **majsíkvel**
 - **mejk**
+- **mendej**
 - **mentoryng**
 - **merdž**
 - **mežŕs**
@@ -302,6 +303,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **opšnal/opšnl**
 - **oupensors**
 - **ouverajdnúť**
+- **ouvrloud**
 - **ouvr-rejtid**
 - **ouvrvjú**
 
@@ -448,6 +450,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **vjučko**
 - **vjú**
 - **voljúm**
+- **vorkdej**
 - **vorkeraund**
 - **vyprintiť**
 
