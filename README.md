@@ -144,8 +144,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fankšn**
 - **fecilitíz**
 - **fejšl**
-- **fíčr / fíčura**
 - **finišd**
+- **fíčr / fíčura**
+- **fídbek**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
 - **formejšn**
 - **fors**
