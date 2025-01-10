@@ -23,6 +23,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # B
 - **badžet**
 - **badžetyng**
+- **bafer**
 - **bag**
 
 ![bag](obrazky/bag.png)
@@ -68,6 +69,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dajrekt**
 - **dajvers**
 - **daktejpd**
+- **dan**
 - **demidž**
 - **dejta**
 - **dibagd**
@@ -191,6 +193,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **instól**
 - **instrakšn**
 - **interakšn**
+- **interapt**
 - **intrestyd**
 - **intrfejs**
 - **invajrment**
@@ -286,6 +289,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **míningful**
 - **mít**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
+- **mjút/mjútyd**
 - **mondžo** - ne**síkvel**ová databáza určená vekovým kategóriam 6+
 - **moust**
 
@@ -304,6 +308,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **opšnal/opšnl**
 - **oupensors**
 - **ouverajdnúť**
+- **ouvrflou**
+- **ouvrlep**
 - **ouvrloud**
 - **ouvr-rejtid**
 - **ouvrvjú**
@@ -317,6 +323,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pejpr**
 - **pejstnúť**
 - **pekidž**
+- **per**
 - **performens**
 - **píárko**
 - **pík**
@@ -343,6 +350,8 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rekvest**
 - **reporty**
 - **retenšn**
+- **ridakšn**
+- **ridjús**
 - **rikriejtnúť**
 - **rikvajrments**
 - **rilej**
@@ -384,6 +393,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sink**
 - **síkrit**
 - **síkvel**
+- **skauntovať**
 - **skedžl**
 - **skram**
 - **skrejp**
