@@ -92,6 +92,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dženerejtyd**
 - **dženeryk**
 - **džira**
+- **dží~dí~pí~ár**
 - **džob**
 
 # E
@@ -138,6 +139,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **etečnúť**
 - **etenšn**
 - **evridž**
+- **es~is**
 
 # F
 - **fajl**
@@ -215,7 +217,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # K
 - **kajnda**
-- **kapabilita***
+- **kapabilita**
 - **karensi**
 - **karent**
 - **kastom**
@@ -320,6 +322,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pajplajna**
 - **pecko**
 - **pejdž(a)**
+- **pejment**
 - **pejpr**
 - **pejstnúť**
 - **pekidž**
