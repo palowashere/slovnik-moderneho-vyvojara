@@ -126,6 +126,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **endurenc**
 - **enihau**
 - **eniuej**
+- **entenglovať**
 - **eplájd**
 - **eplikejšn**
 - **eprouč**
