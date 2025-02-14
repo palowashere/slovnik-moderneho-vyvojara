@@ -35,6 +35,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **beč**
 - **bejsik**
 - **bejsikli**
+- **bejslajn**
 - **bek**
 - **bekap**
 - **bilt**
@@ -129,6 +130,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **entenglovať**
 - **eplájd**
 - **eplikejšn**
+- **eprišijejtnúť**
 - **eprouč**
 - **eprúvnuť**
 - **erkhájv**
