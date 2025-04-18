@@ -6,6 +6,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ajmín**
 - **anríl**
 - **anmjútnuť sa**
+- **anpauz**
 - **ajtem**
 - **akses**
 - **apdejt**
@@ -111,6 +112,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ejpíáj**
 - **ekaunt**
 - **ekaunting** - pomenúva tím zaoberajúci sa buzerovaním ohľadom **badžet**ovania
+- **ekjured**
 - **eknolidžnúť**
 - **ekros**
 - **ekspoužr**
@@ -224,6 +226,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **karensi**
 - **karent**
 - **kastom**
+- **kaunslyng**
 - **kaunter**
 - **kejs**
 - **kejts** - slangový termín pre k8s používaný primárne ľuďmi so zrakovými poruchami
@@ -358,6 +361,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **retenšn**
 - **ridakšn**
 - **ridjús**
+- **rikavr/rikaver**
 - **rikriejtnúť**
 - **rikvajrments**
 - **rilej**
