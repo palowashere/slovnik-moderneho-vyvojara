@@ -267,6 +267,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kveščnér**
 
 # L 
+- **lajbreri**
 - **lajn(a)**
 - **lajkli**
 - **lajsens**
