@@ -253,6 +253,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kontribjušn**
 - **kolbek**
 - **kolstek**
+- **kostly**
 - **koučing**
 - **koud**
 - **koudbejs**
@@ -282,7 +283,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lík**
 - **loker**
 - **lou**
+- **loukí**
 - **loukl**
+- **loukost**
 - **lovrkejs**
 - **lrnyng**
 
@@ -381,6 +384,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ritrívnuť**
 - **rivjú**
 - **rídmi/rídmí/rídmíčko**
+- **rídžn**
 - **ríl**
 - **ríl~tajm**
 - **ríserč** - keď treba dačo robiť ale nevieš čo akože
