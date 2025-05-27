@@ -1,4 +1,4 @@
-# slovnik-umrtia-jazyka-slovenskeho
+ # slovnik-umrtia-jazyka-slovenskeho
 priebežne upravovaný slovník zdementneného moderného vývojára
 
 # A
@@ -94,7 +94,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dženerejtyd**
 - **dženeryk**
 - **džira**
-- **dží~dí~pí~ár**
+- **dží-dí-pí-ár**
 - **džob**
 
 # E
