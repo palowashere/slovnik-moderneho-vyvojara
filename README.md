@@ -214,8 +214,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **juiks**
 - **junit testy**
 - **junou**
-- **júsles**
+- **jusidž**
 - **jutiliti**
+- **júsles**
 - **júzer-storky**
 - **júzkejs**
 - **júžual**
