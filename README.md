@@ -8,6 +8,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **anmjútnuť sa**
 - **anpauz**
 - **ajtem**
+- **aksept**
 - **akses**
 - **apdejt**
 - **apičko**
@@ -34,6 +35,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **batn**
 - **bazvord**
 - **beč**
+- **bejsd**
 - **bejsik**
 - **bejsikli**
 - **bejslajn**
@@ -282,6 +284,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **licka**
 - **ličrli/litčerali/literali**
 - **lík**
+- **logsors**
 - **loker**
 - **lou**
 - **loukí**
@@ -397,11 +400,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sadžeščn**
 - **safiks**
 - **sajdhasl**
+- **sajkl**
 - **sajnnúť**
 - **saksesful**
 - **sejls**
 - **sejvnúť**
 - **sekjúr**
+- **sekurita**
 - **sens**
 - **servisa**
 - **sešn**
@@ -425,6 +430,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **spejsing**
 - **spendydž**
 - **spíker**
+- **spoukperson**
 - **sŕč**
 - **stejdž/stejdžd**
 - **stejt**
@@ -448,6 +454,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tímbilding**
 - **tejbl**
 - **tejkóver**
+- **tejkuvej**
 - **temporeri**
 - **topyk**
 - **trablšút**
