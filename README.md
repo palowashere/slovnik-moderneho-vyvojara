@@ -92,6 +92,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **doiterovať**
 - **drajran**
 - **drajv**
+- **dúdilidžens**
 - **džejson**
 - **dženerejtyd**
 - **dženeryk**
@@ -262,6 +263,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **koudbejs**
 - **ko-vorking**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
+- **kredenšls**
 - **krešnúť**
 - **kriejt/krijejt**
 - **krut**
@@ -393,6 +395,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ríl~tajm**
 - **ríserč** - keď treba dačo robiť ale nevieš čo akože
 - **rísors**
+- **rizilijenc**
 
 # S
 - **sabík** - skrátená verzia **sabskripšn*y
