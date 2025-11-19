@@ -39,6 +39,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **bejsik**
 - **bejsikli**
 - **bejslajn**
+- **bejza**
 - **bek**
 - **bekap**
 - **bilt**
@@ -96,8 +97,9 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **džejson**
 - **dženerejtyd**
 - **dženeryk**
-- **džira**
 - **dží-dí-pí-ár**
+- **džíndža**
+- **džira**
 - **džob**
 
 # E
@@ -160,6 +162,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíčr / fíčura**
 - **fídbek**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
+- **fleška**
 - **formejšn**
 - **fors**
 - **forsínovať**
@@ -246,6 +249,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **klas(a)**
 - **klaud**
 - **klejm**
+- **klik-end-čúz**
 - **ko-brausing**
 - **komitment**
 - **komp**
@@ -346,6 +350,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **performens**
 - **píárko**
 - **pík**
+- **plejbuk**
 - **plening**
 - **polisi**
 - **popap**
@@ -368,6 +373,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rejndž**
 - **rekvest**
 - **reporty**
+- **reputejšn**
 - **retenšn**
 - **ridakšn**
 - **ridjús**
@@ -399,6 +405,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # S
 - **sabík** - skrátená verzia **sabskripšn*y
+- **sabmit**
 - **sabskripšn**
 - **sadžeščn**
 - **safiks**
