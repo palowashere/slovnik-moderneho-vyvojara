@@ -162,6 +162,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíčr / fíčura**
 - **fídbek**
 - **fíling** - "pocit", ten kto fíluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefílujem bráško"
+- **fízabilita**
 - **fleška**
 - **formejšn**
 - **fors**
