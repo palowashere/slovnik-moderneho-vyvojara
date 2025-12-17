@@ -410,6 +410,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sabskripšn**
 - **sadžeščn**
 - **safiks**
+- **sajbr/sajbrsek**
 - **sajdhasl**
 - **sajkl**
 - **sajnnúť**
