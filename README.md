@@ -421,7 +421,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sekurita**
 - **sens**
 - **servisa**
-- **sešn**
+- **sešn/sešna**
 - **setingsi**
 - **sink**
 - **síkrit**
