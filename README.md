@@ -19,6 +19,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **argosídí**
 - **artyfišl**
 - **asesmenty**
+- **autsorsyng**
 - **áve-esko**
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia 
 
@@ -31,6 +32,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 ![bag](obrazky/bag.png)
 
 - **bagfiks**
+- **bajdifolt**
 - **baj-d-uej**
 - **batn**
 - **bazvord**
@@ -461,6 +463,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # T
 - **tajming**
 - **tajp**
+- **tajtl** 
 - **tajpo**
 - **tiket**
 - **tímbilding**
