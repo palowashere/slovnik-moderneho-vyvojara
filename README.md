@@ -89,6 +89,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dilít**
 - **dinájd**
 - **diploj**
+- **disižn**
 - **diskrajb/diskripšn**
 - **distinkšn**
 - **distrekšn**
@@ -136,8 +137,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **endurenc**
 - **enihau**
 - **eniuej**
+- **enričnúť**
 - **entenglovať**
 - **eplájd**
+- **eplájensa**
 - **eplikejšn**
 - **eprišijejtnúť**
 - **eprouč**
