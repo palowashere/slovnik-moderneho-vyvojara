@@ -433,6 +433,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **síkvel**
 - **skauntovať**
 - **skedžl**
+- **skoup**
 - **skram**
 - **skrejp**
 - **skrína** - "obrazovka"
@@ -502,6 +503,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **vjučko**
 - **vjú**
 - **voljúm**
+- **vordlist**
 - **vorkdej**
 - **vorkeraund**
 - **vyprintiť**
